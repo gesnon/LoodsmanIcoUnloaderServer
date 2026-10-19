@@ -1,0 +1,6 @@
+@LoodsmanIcoUnloaderServer_HostAddress = http://localhost:5136
+
+GET {{LoodsmanIcoUnloaderServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

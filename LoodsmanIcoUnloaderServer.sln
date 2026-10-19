@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.10.12224.181 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoodsmanIcoUnloaderServer", "LoodsmanIcoUnloaderServer\LoodsmanIcoUnloaderServer.csproj", "{AA503752-A90C-420F-897A-09590B89275C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoodsmanAPiServer", "LoodsmanAPiServer\LoodsmanAPiServer.csproj", "{DF457D27-4BE3-410B-A8E5-674FB8082DA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA503752-A90C-420F-897A-09590B89275C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA503752-A90C-420F-897A-09590B89275C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA503752-A90C-420F-897A-09590B89275C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA503752-A90C-420F-897A-09590B89275C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF457D27-4BE3-410B-A8E5-674FB8082DA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF457D27-4BE3-410B-A8E5-674FB8082DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF457D27-4BE3-410B-A8E5-674FB8082DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF457D27-4BE3-410B-A8E5-674FB8082DA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3F10614-9A44-4E10-B434-815173CD766A}
+	EndGlobalSection
+EndGlobal
